@@ -11,4 +11,4 @@ El programa está dividido en 4 archivos
   Servidor.py
   
 Ejecución.
-El archivo Conectados.py debe estar siempre en ejecución, este es el servidor de la gente que está conectada. Por otro lado, se corre el programa Chat.py, al hacerlo aparecera la ventana en la que se debe ingresar el nombre del usuario,
+El archivo Conectados.py debe estar siempre en ejecución, este es el servidor de la gente que está conectada. Por otro lado, se corre el programa Chat.py, al hacerlo aparecera la ventana en la que se debe ingresar el nombre del usuario, para continuar se da click en el botón de OK. Luego se muestra la ventana en la que se debe de ingresar el IP personal, al hacerlo, continuamos apretando el botón de OK. Seguido aparece la vista que nos pide el IP del servidor, de igual manera continuamos apretando OK. Por ultimo se muestra el chat con interfaz gráfica.

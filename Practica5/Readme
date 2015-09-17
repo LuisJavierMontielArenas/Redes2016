@@ -1,0 +1,14 @@
+Integrantes:
+Piche Limeta Jose Roberto
+Montiel Arenas Luis Javier
+
+Estructura del programa.
+El chat está constituido de cliente, servidor, e interfaz gráfica.
+El programa está dividido en 4 archivos
+  Chat.py
+  Cliente.py
+  Conectados.py
+  Servidor.py
+  
+Ejecución.
+El archivo Conectados.py debe estar siempre en ejecución, este es el servidor de la gente que está conectada. Por otro lado, se corre el programa Chat.py, al hacerlo aparecera la ventana en la que se debe ingresar el nombre del usuario,
